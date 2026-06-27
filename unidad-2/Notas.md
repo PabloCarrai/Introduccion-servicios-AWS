@@ -1,5 +1,3 @@
-Unidad 2: Introducción a AWS y su infraestructura global
-
 Esta unidad profundiza en Amazon Web Services (AWS), la plataforma de computación en la nube más amplia y robusta del mercado, destacando sus características, arquitectura y herramientas principales.
 
 1. ¿Qué es AWS?
@@ -331,6 +329,3 @@ Estos conceptos sientan las bases sólidas necesarias para avanzar hacia servici
 
 ---
 ⭐ *Apuntes preparados para el curso de Fundamentos de AWS - Módulo 1.*
-
-README.md
-Mostrando README.md.
