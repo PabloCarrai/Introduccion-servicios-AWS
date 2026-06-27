@@ -1,13 +1,3 @@
-Acerca de GeminiSe abrirá en una ventana nueva
-Obtener la app de GeminiSe abrirá en una ventana nueva
-SuscripcionesSe abrirá en una ventana nueva
-Para empresasSe abrirá en una ventana nueva
-Conversación con Gemini
-
-Necesito que me armes un README.md para descargar con un buen aspecto visual con el siguiente contenido.
-
-Por supuesto, a continuación te presento un resumen más detallado y explicativo de la Unidad 2 del Módulo 1 en el curso sobre AWS:
-
 Unidad 2: Introducción a AWS y su infraestructura global
 
 Esta unidad profundiza en Amazon Web Services (AWS), la plataforma de computación en la nube más amplia y robusta del mercado, destacando sus características, arquitectura y herramientas principales.
