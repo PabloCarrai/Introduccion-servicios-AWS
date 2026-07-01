@@ -1,0 +1,19 @@
+#   Zoom 1
+#   1/7/26
+#   4(Una tristeza)
+
+Soft por si mismo va con saas
+Cuando hay plataformas ya para usar es paas
+Los tres cloud principales se reparten mercado. 
+GCP(desde el punto de vista del profe) es el mas simple
+finops(quien se encarga de los costos y presupuestos operativos)
+Instancias reservadas, te salen mas baratas. 
+Mediante contrato se accede a menor costo. 
+aws Regniones
+Infra fisica y logica. 
+Fisica a lo tangible, centro de datos, servidores redes, almacenamiento. 
+Logica, basicamente todo el software. Consola de aws, base de datos. Orquestacion.
+La parte logica administra la parte fisica. 
+Consola de aws. Aguantar la creacion del usuario posta. 
+El recurso que levantes, se te cobra por el uso. 
+
