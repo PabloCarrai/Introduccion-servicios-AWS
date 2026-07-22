@@ -1,0 +1,24 @@
+#   Zoom 4
+#   22/7/26
+#   No hay caso, ni viene nadie. 
+#   terrible, ahora entiendo porque se la pasan
+#   haciendo temporadas de oferta. Un fiasco
+
+Amazon s3(simple storage service)-Repositorio global. 
+El recurso mas usado en aws
+Almacena cualquier cosa. 
+
+Bucket(Contenedores logicos en donde se guardan los archivos)
+Objetos(Los archivos)
+Claves(Key) Identificador unico de cada objeto dentro del bucket(Ruta)
+Metadato(Informacion adicional)
+
+aws cloudfront(maneja para mostrar sitios web.)
+beanstalk(simplifica el proceso de una app en produccion)
+amplify(app fullstack)
+
+vpc(La parte de la red, gestiona todo subred)
+subredes-publicas/privadas
+internet gateway / Nat gateway
+Tablas de enrutamiento(cada subred esta asociada a una tabla de enrutamiento)
+ACLs(firewall) si permite el trafico entrante permite el saliente
