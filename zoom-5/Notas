@@ -1,0 +1,19 @@
+#   Zoom 5
+#   29/7/26
+#   2, esto es demasiado
+
+La evaluacion es el trabajo practico. 
+Luego habria un cuestionario que no importa en la evaluacion.
+El 12/8 se habilita estos trabajos hasta el 18 
+Finaliza el 18/8/26
+
+s3(simple storage service) Almacenamiento. 
+Versionado, automatico configurable. 
+Multiples versiones de un mismo archivo. 
+Al eliminar un archivo no se elimina, se marca como delete marker. 
+No aparece pero hay forma de acceder a ellos. 
+
+Politica de ciclo de vida. 
+Es las normas usadas para el Almacenamiento de contenido. 
+Si el mismo se mantiene en un tipo de Almacenamiento con el correr del tiempo. 
+

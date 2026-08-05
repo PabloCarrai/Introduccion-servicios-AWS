@@ -1,0 +1,15 @@
+#   Zoom 5
+#   5/8/26
+#   Somos 3 Increible. 
+
+De iam hay varias preguntas. en la certificacion
+Seguridad, identidad y monitoreo. 
+El monitoreo puede estar vinculado al finop o a un administrador/Seguridad.
+IAM maneja identidad y acceso en cuanto a la gestion
+Usuario(es una persona o una app necesita acceso a aws)
+rol(Es temporal, es para dar permisos temporales)
+politica(es lo mas usado, definen acciones permitidas/denegadas sobre recursos)
+grupos.(Simplifica la administracion de manera colectiva) 
+Usar el principio de menor privilegio. 
+Lo minimo indispensables en permisos. 
+Se genera una cuenta por institucion. 
